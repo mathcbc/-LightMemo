@@ -3,7 +3,6 @@
 
 <img src="https://github.com/mathcbc/-LightMemo/raw/master/images/Memo.png" width="30%" height="30%"><br>
 <img src="https://github.com/mathcbc/-LightMemo/raw/master/images/memo2.png" width="30%" height="30%"><br>
-<img src="https://github.com/mathcbc/-LightMemo/raw/master/images/memo3.png" width="30%" height="30%"><br>
 <img src="https://github.com/mathcbc/-LightMemo/raw/master/images/memo4.png" width="30%" height="30%"><br>
 <img src="https://github.com/mathcbc/-LightMemo/raw/master/images/memo5.png" width="30%" height="30%"><br>
 
