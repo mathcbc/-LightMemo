@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">咩末备忘</string>
+    <string name="button">Add</string>
+    <string name="dialog_title">请输入类目名称</string>
+    <string name="positive_button">确定</string>
+    <string name="title">Memo</string>
+</resources>
